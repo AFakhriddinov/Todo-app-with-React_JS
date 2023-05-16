@@ -74,7 +74,7 @@ This is a Todo app built with React JS. The app provides simple CRUD functionali
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-N/A
+Visit live demo [link](https://todo-react-app3.netlify.app/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -113,7 +113,7 @@ N/A
 
 ### Deployment
 
-You can deploy this project on GitHub Pages
+This project was deployed on netlify.com. You can view the project live [here](https://todo-react-app3.netlify.app/)
 
 ## 👥 Authors <a name="authors"></a>
 
